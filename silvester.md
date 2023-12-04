@@ -15,6 +15,7 @@
         - Vodka - Marcel
         - Mische
             - Cola/Fanta/Sprite - Kasten gemischt
+            - Tonic/Ginger Ale/Wildberry/Bitter Lemon
         - Wackelpudding Vodka Shots
             - Dr. Oetker Götterspeise + Einweg Plastik Shot-Gläser
         - Ahoi-Brause
